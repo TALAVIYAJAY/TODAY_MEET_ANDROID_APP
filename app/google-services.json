@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115534408261",
+    "project_id": "todaymeet-b3ee7",
+    "storage_bucket": "todaymeet-b3ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115534408261:android:a1795a07e3eda6fc77d12c",
+        "android_client_info": {
+          "package_name": "com.example.todaymeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115534408261-c4sigr0sd9ufdv9r86e8o1hhk1ng1ujr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBd0z0mz9b0sjik2iwkXiRaBQuoez48E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115534408261-c4sigr0sd9ufdv9r86e8o1hhk1ng1ujr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
